@@ -1,0 +1,13 @@
+# patch payload, game files and work data are not tracked here
+release/
+*.zip
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+*.xlsx
+originals/
+tools/
+build/
+backups/
+__pycache__/
