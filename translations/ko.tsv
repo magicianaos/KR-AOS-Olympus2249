@@ -6980,11 +6980,11 @@ O2Project/Content/Text/TextDT/DT_Items.uexp::CraftSourceRope::0	description	밧�
 O2Project/Content/Text/TextDT/DT_Items.uexp::CraftSourceRope::1	description	낡았지만 여러 상황에 여전히 쓸 만한 밧줄. 비누는 별도다.	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::RopeCoil::0	description	밧줄 뭉치	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::RopeCoil::1	description	낡았지만 여러 상황에 여전히 쓸 만한 밧줄. 비누는 별도다.	draft
-O2Project/Content/Text/TextDT/DT_Items.uexp::CraftSourceCanned::0	description	통조림	draft
+O2Project/Content/Text/TextDT/DT_Items.uexp::CraftSourceCanned::0	description	빈 깡통	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::CraftSourceCanned::1	description	벽에 음식 찌꺼기가 들러붙은 녹슨 깡통. 이걸 챙겼다면 신혼부부이거나 손재주가 아주 좋은 창작가일 것이다.	draft
-O2Project/Content/Text/TextDT/DT_Items.uexp::AngleGrinder::0	description	통조림	draft
+O2Project/Content/Text/TextDT/DT_Items.uexp::AngleGrinder::0	description	빈 깡통	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::AngleGrinder::1	description	벽에 음식 찌꺼기가 들러붙은 녹슨 깡통. 이걸 챙겼다면 신혼부부이거나 손재주가 아주 좋은 창작가일 것이다.	draft
-O2Project/Content/Text/TextDT/DT_Items.uexp::CanRusty2::0	description	통조림	draft
+O2Project/Content/Text/TextDT/DT_Items.uexp::CanRusty2::0	description	빈 깡통	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::CanRusty2::1	description	벽에 음식 찌꺼기가 들러붙은 녹슨 깡통. 이걸 챙겼다면 신혼부부이거나 손재주가 아주 좋은 창작가일 것이다.	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::CraftToolHammer::0	description	망치	draft
 O2Project/Content/Text/TextDT/DT_Items.uexp::CraftToolHammer::1	description	단조, 조립, 거친 수리에 쓰는 도구. 남의 두개골을 깨는 데도 쓸 수 있다.	draft
@@ -8087,7 +8087,7 @@ O2Project/Content/Text/TextDT/GT_Game.uexp::RepairedDamResist::0	description	피
 O2Project/Content/Text/TextDT/GT_Game.uexp::RepairedCapacity::0	description	피해 수용량: +	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::AmmoQty::0	description	탄약:	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::DieselConsumption::0	description	연료 소모량: 	draft
-O2Project/Content/Text/TextDT/GT_Game.uexp::WeaponAdaptation::0	description	명중 보너스:	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::WeaponAdaptation::0	description	명중률 (적응):	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::ItemParamDrugStat::0	description	효과:	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::ItemParamDrugParam::0	description	능력치:	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::Duration::0	description	행동:	draft
@@ -8270,3 +8270,16 @@ O2Project/Content/Text/TextDT/GT_Game.uexp::GvarActIResultsPersonalFarmEndingFig
 O2Project/Content/Text/TextDT/GT_Game.uexp::GvarActIResultsPersonalFarmEndingHalfPeace::0	description	독수리들과 합의했지만, 그들은 그 결과를 쉽게 잊지 못할 것입니다.	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::GvarActIResultsPersonalFarmEndingRefusal::0	description	도움을 청하는 블랙을 거절했습니다.	draft
 O2Project/Content/Text/TextDT/GT_Game.uexp::GvarActIResultsPersonalFarmBlackApostate::0	description	유일한 진짜 친구에게 손찌검을 하고 농장에서 소란을 일으켰습니다.	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater111::0	dialogue	이 들보 나무가 바싹 말랐네. 양초처럼 타오르겠어.	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater112::0	dialogue	그러니까... 톰이 조심하랬지. 여긴 함정투성이라고.	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater113::0	dialogue	{ActS}얘기해야 할 사람이... 젠장, 누구였더라?{ActE}	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater114::0	dialogue	{ActS}아직은 아니다.{ActE}	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater115::0	dialogue	{ActS}이건 나중에 처리해야겠다.{ActE}	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater116::0	dialogue	{ActS}아니, 이건 안 되겠다.{ActE}	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater117::0	dialogue	{ActS}소용없다.{ActE}	draft
+O2Project/Content/Text/FloatersDT/998_Dude_SpecialFloatersNew.uexp::Floater118::0	dialogue	{ActS}생각해, 생각해, 생각해!{ActE}	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::NotifImageRecords::0	description	퀘스트 설명 확인과 대화 기록 다시 보기는 수첩 [L]에서 할 수 있습니다.	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::NotifImageRecordsXbox::0	description	퀘스트 설명 확인과 대화 기록 다시 보기는 수첩 [D-pad ↓]에서 할 수 있습니다.	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::HoursUntilRestock::0	description	시간 후 재고가 갱신됩니다.	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::FollowCombatTurnCharacter::0	description	전투 중 시점이 적을 따라갑니다	draft
+O2Project/Content/Text/TextDT/GT_Game.uexp::WeaponConditionAccuracy::0	description	명중률 (마모):	draft
